@@ -1,2 +1,18 @@
 # week1-data-load-and-basics
-Week 1 assignment for the Machine Learning course – Introduction to ML, Supervised Learning, Regression &amp; Classification, and basic data handling with Pandas.
+# Week 1 Assignment
+
+This repository contains the Week 1 assignment
+
+### Week 1 Contents
+- `Week1_Document.docx` – A Word file explaining:
+  - What is Machine Learning (ML)
+  - What is Supervised ML
+  - What are Regression and Classification
+- `Week1_Assignment.ipynb` – Google Colab notebook that:
+  - Uploads the dataset
+  - Imports required libraries
+  - Reads the dataset using `read_csv()`
+  - Displays the first 5 rows
+  - Prints dataset info using `info()`
+
+> ⚠️ Note: This repository is intended for academic purposes only.
