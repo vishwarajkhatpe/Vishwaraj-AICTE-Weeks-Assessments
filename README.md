@@ -1,4 +1,4 @@
-# week1-data-load-and-basics
+# weeks assesments AICTE EDUNET FOUNDETION
 # Week 1 Assignment
 
 This repository contains the Week 1 assignment
@@ -14,5 +14,6 @@ This repository contains the Week 1 assignment
   - Reads the dataset using `read_csv()`
   - Displays the first 5 rows
   - Prints dataset info using `info()`
-
+### Week 2 contents
+  - week2.ipynb - a jupyter notebook file 
 > ⚠️ Note: This repository is intended for academic purposes only.
