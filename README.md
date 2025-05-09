@@ -1,7 +1,7 @@
 # weeks assesments AICTE EDUNET FOUNDETION
 # Week 1 Assignment
 
-This repository contains the Week 1 assignment
+This repository contains the Week 1,2 assignment
 
 ### Week 1 Contents
 - `Week1_Document.docx` – A Word file explaining:
@@ -15,5 +15,8 @@ This repository contains the Week 1 assignment
   - Displays the first 5 rows
   - Prints dataset info using `info()`
 ### Week 2 contents
-  - week2.ipynb - a jupyter notebook file 
+  - week2.ipynb - a jupyter notebook file tha::
+  - EDA
+  - Encoding
+  - train-test-split
 > ⚠️ Note: This repository is intended for academic purposes only.
